@@ -53,7 +53,7 @@
 							<label for="remember"><input type="checkbox" id="remember"> Se rappeler de moi</label>
 						</div>
 						<div class="form-group">
-							<p>Non enregistré? <a href="sign-up.html">S'inscrire</a> | <a href="forgot.html">Mot de Passe Oublié?</a></p>
+							<p>Non enregistré? <a href="sign-up.html">S'inscrire</a> | <a href="forgot.php">Mot de Passe Oublié?</a></p>
 						</div>
 						<div class="form-group">
 							<input type="submit" value="Connexion" class="btn btn-primary">
